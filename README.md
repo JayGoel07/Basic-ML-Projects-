@@ -1,23 +1,104 @@
-<h1 align="center">Hi 👋, I'm Jay Goel</h1>
-<h3 align="center">A passionate frontend developer pursuing B.Tech from IIT ROPAR.</h3>
-<img align="right"  alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">  
-- 🌱 I’m currently learning **React for frontend and have covered HTML-CSS**
+# Machine Learning & Computer Vision Projects  
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jay-goel-239697259/](https://www.linkedin.com/in/jay-goel-239697259/)
+Hi 👋 I'm **Jay Goel**  
 
-- 📫 How to reach me **jaygoel7@gmail.com**
+This repository contains multiple Machine Learning and Computer Vision projects implemented using Python, OpenCV, and Scikit-learn.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jay goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay goel" height="30" width="40" /></a>
-<a href="https://instagram.com/jesuis_jay_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesuis_jay_goel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jay_goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jay_goel" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jay_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jay_goel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jay goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay goel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jay goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jay goel" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📂 Projects Overview
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaygoel07&show_icons=true&locale=en&layout=compact" alt="jaygoel07" /></p>
+### 1️⃣ Car Price Prediction (Regression)
+
+**Type:** Supervised Learning – Regression  
+
+This project predicts the price of a car based on various input features such as mileage, engine size, fuel type, etc.
+
+#### 🔹 Problem Type:
+Regression problem (predicting continuous values)
+
+#### 🔹 Techniques Used:
+- Data preprocessing  
+- Feature encoding  
+- Train-test split  
+- Linear Regression / other regression models  
+- Model evaluation (R² Score, MAE, MSE)  
+
+#### 🔹 Goal:
+Build a model that can accurately estimate car prices based on input features.
+
+---
+
+### 2️⃣ Rock vs Mine Prediction (Classification)
+
+**Type:** Supervised Learning – Classification  
+
+This project classifies sonar signals as either:
+- **Rock**
+- **Mine**
+
+#### 🔹 Problem Type:
+Binary Classification
+
+#### 🔹 Techniques Used:
+- Data normalization  
+- Logistic Regression / other classification models  
+- Accuracy evaluation  
+- Confusion matrix  
+
+#### 🔹 Goal:
+Classify underwater objects based on sonar signal readings.
+
+---
+
+### 3️⃣ Sentiment Analysis using VADER
+
+**Type:** Natural Language Processing (NLP)  
+
+This project performs sentiment analysis on text using the VADER sentiment analyzer.
+
+#### 🔹 Tool Used:
+- VADER (Valence Aware Dictionary and sEntiment Reasoner)
+
+#### 🔹 Output Categories:
+- Positive  
+- Negative  
+- Neutral  
+
+#### 🔹 Applications:
+- Social media sentiment analysis  
+- Review analysis  
+- Opinion mining  
+
+---
+
+### 4️⃣ Face Recognition (OpenCV Project)
+
+**Type:** Computer Vision  
+
+A basic face recognition system built using OpenCV.
+
+#### 🔹 Features:
+- Face detection using Haar cascades  
+- Real-time camera input  
+- Basic recognition pipeline  
+
+#### 🔹 Tools Used:
+- OpenCV  
+- Python  
+
+#### 🔹 Goal:
+Detect and recognize faces using computer vision techniques.
+
+---
+
+## 🛠 Technologies Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- OpenCV  
+- NLTK  
+- Matplotlib  
+- Jupyter Notebook  
